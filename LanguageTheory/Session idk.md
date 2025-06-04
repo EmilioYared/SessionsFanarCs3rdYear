@@ -23,6 +23,9 @@ c) (a+ba)* (b+epsilon)*
 ![](../images/LT13.png)
 
 ---
-![](../images/LT14.png)
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/2361137c-33cd-40d3-b89e-ffab39d11be6" />
+
+
+
 
 ---
