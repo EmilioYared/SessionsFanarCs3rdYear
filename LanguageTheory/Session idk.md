@@ -9,10 +9,10 @@
 ![](../images/LT10.png)
 
 ---
-a) (b)* a (b)* a (b)*
-b) aa(a+b)* +(a+b)* bb
-c) (a+ba)* (b+epsilon)*
-
+a) (b)* a (b)* a (b)*  
+b) aa(a+b)* +(a+b)* bb  
+c) (a+ba)* (b+epsilon)*  
+ ---
 ![](../images/LT11.png)
 
 ---
