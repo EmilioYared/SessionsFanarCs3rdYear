@@ -20,9 +20,28 @@ D->bDc |E  <-> guarantess m = k
 E -> cE|c  <-> adds at lest one c such that m<=k
 
 and finally S->S1|S2
+---
+
 ![](../images/LT2.png)
+
+---
+
 ![](../images/LT3.png)
+
+---
+
 ![](../images/LT4.png)
+
+---
+
 ![](../images/LT5.png)
+
+---
+
 ![](../images/LT6.png)
+
+---
+
 ![](../images/LT7.png)
+
+---
