@@ -14,8 +14,9 @@
 ![](../images/LT23.png)
 
 ---
+![image](https://github.com/user-attachments/assets/6658ba16-58fd-466e-a080-43d2a2991f5e)
 
-![](../images/LT24.png)
+
 
 ---
 
